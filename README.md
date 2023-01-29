@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 [Desktop](https://i.imgur.com/woN6Ple.jpeg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profilecardcomponentmain-with-flexbox-8Ih3A_7lgv)
+- Live Site URL: [Github](https://amrmabdelazeem.github.io/profile-card-component-main/)
 
 ### Built with
 
