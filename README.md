@@ -22,7 +22,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-[Mobile](https://i.imgur.com/7TzhF0E.jpeg)
+[Mobile](https://i.imgur.com/XKJ3Fya.jpeg)
 [Desktop](https://i.imgur.com/woN6Ple.jpeg)
 ### Links
 

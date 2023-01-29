@@ -72,6 +72,7 @@ span{
 }
 
 hr{
-    border-color: hsl(227, 33%, 89%);
+    border: 1px solid hsl(227, 33%, 89%);
     opacity: .5;
+    border-style: hidden;
 }
